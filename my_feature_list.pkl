@@ -1,0 +1,10 @@
+(lp0
+S'poi'
+p1
+aS'exercised_stock_options'
+p2
+aS'from_this_person_to_poi_ratio'
+p3
+aS'expenses'
+p4
+a.
